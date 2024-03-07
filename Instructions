@@ -1,0 +1,24 @@
+Band Challenge
+Create a website about a band that you like using HTML
+
+Elements that should be included:
+
+A homepage, featuring photo of the band and a brief description (How they started, genre, controversy etc)
+
+A discography page, showing their latest 3 studio albums in order of release, with an album cover and track listing
+
+A bio page showing an unordered list of band members, with a photo, name, instrument for each
+
+A navbar with links to the 3 pages
+
+Heading on each page, telling the user which page they are on. Homepage should have title of the band.
+
+A footer with your copyright (make sure to use the copyright symbol)
+
+Throughout the site, try using HTML elements for effect! (e.g. <em> <strong> etc)
+
+Also use semantic HTML tags where possible
+
+Note: For this challenge, we haven't written tests, because there are a lot of different ways to get the result we are looking for - any test we wrote would check some of those techniques, but might mark you incorrect if you found a good way to do it that we didn't think of!
+
+To know if you've got it right, just take a look at your page and decide for yourself - does it look like our description above? If so, congratulations, you nailed it! If not, keep trying, and don't forget to come ask for help if you get stuck. :)
